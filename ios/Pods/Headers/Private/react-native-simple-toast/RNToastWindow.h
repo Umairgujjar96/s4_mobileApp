@@ -1,0 +1,1 @@
+../../../../../node_modules/react-native-simple-toast/ios/RNToastWindow.h

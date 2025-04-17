@@ -7,7 +7,7 @@ import ProfileStack from "../appFlow/profileStack";
 import MessagesStack from "../appFlow/messagingStack";
 import CreatePostStack from "../appFlow/createPostStack";
 import { appIcons, colors, fontFamily } from "../../utilities";
-import { heightPixel, routes, widthPixel } from "../../constants";
+import { heightPixel, widthPixel } from "../../constants";
 import { responsiveFontSize } from "react-native-responsive-dimensions";
 import { useSelector } from "react-redux";
 
@@ -27,14 +27,20 @@ export function TabNavigator({ navigation }) {
     {
       route: "Search",
       icon: appIcons.searchIcon,
-      component: ()=>{return(<Text>Search</Text>)},
+      component: () => {
+        return (
+          <View style={{ alignItems: "center", flex: 1, justifyContent: "center" }} >
+            <Text style={{ color: colors.theme, fontSize: 18 }} >Comming Soon!</Text>
+          </View>
+        )
+      },
       color: colors.theme,
     },
     {
       route: "add",
       icon: appIcons.addIcon,
       component: CreatePostStack,
-      color:colors.theme,
+      color: colors.theme,
     },
     {
       route: "messages",

@@ -1,0 +1,1 @@
+../../../../../node_modules/react-native-pager-view/ios/LEGACY/Fabric/LEGACY_RNCPagerViewComponentView.h

@@ -15,7 +15,7 @@ import ProfileStack from "./appFlow/profileStack";
 const MyStack = createStackNavigator();
 export const MainNavigator = () => {
   const [mode, setMode] = useState();
-  const user = useSelector((state)=>state.user.userData);
+  const user = useSelector((state) => state.user.userData);
   useEffect(() => {
     let eventListener = EventRegister.addEventListener(
       "changeTheme",
@@ -40,12 +40,12 @@ export const MainNavigator = () => {
     <themeContext.Provider value={mode === true ? theme.dark : theme.light}>
       <NavigationContainer theme={MyTheme}>
         <MyStack.Navigator
-          initialRouteName={!user ?  routes.auth : routes.drawer}
+          initialRouteName={!user ? routes.auth : routes.drawer}
           screenOptions={{ headerShown: false }}
         >
           <MyStack.Screen name={routes.auth} component={AuthNavigation} />
           <MyStack.Screen name={routes.drawer} component={DrawerNavigator} />
-          
+
         </MyStack.Navigator>
       </NavigationContainer>
     </themeContext.Provider>

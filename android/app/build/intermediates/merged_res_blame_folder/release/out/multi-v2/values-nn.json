@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.mysurprise.app-mergeReleaseResources-95:/values-nn/values-nn.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Umair\\.gradle\\caches\\transforms-4\\df5035d710e5693426900c029993c2fd\\transformed\\jetified-stripe-3ds2-android-6.1.8\\res\\values-nn\\values-nn.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,142,244,311,378,442,513",
+                        "endColumns": "86,101,66,66,63,70,66",
+                        "endOffsets": "137,239,306,373,437,508,575"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+module stripe_react_native {
+  umbrella header "stripe-react-native-umbrella.h"
+
+  export *
+  module * { export * }
+}

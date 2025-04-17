@@ -9,9 +9,11 @@ const appImages = {
 };
 
 const appIcons = {
-  
   profile: require(`${iconUrl}/profile.png`),
   uploadicon: require(`${iconUrl}/uploadicon.png`),
+  tokenIcon: require(`${iconUrl}/iconToken.png`),
+  playIcon: require(`${iconUrl}/play-button.png`),
+
   pic1: require(`${iconUrl}/pic1.png`),
   pic2: require(`${iconUrl}/pic2.png`),
   pic3: require(`${iconUrl}/pic3.png`),
@@ -75,8 +77,6 @@ const appIcons = {
   backrectangle: require(`${iconUrl}/backgroundrectangle.png`),
   filledHeart: require(`${iconUrl}/filledheart.png`),
   representtext: require(`${iconUrl}/textRepresent.jpg`),
-  
-  
 };
 
 export { appImages, appIcons };

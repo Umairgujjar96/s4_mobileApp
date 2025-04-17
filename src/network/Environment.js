@@ -1,5 +1,5 @@
 export const BASE_URL =
-  "http://192.168.18.38:8000/";
+  "http://ec2-16-171-52-243.eu-north-1.compute.amazonaws.com/";
 export const IMAGE_BASE_URL = "";
 
 export const api = {
@@ -18,19 +18,25 @@ export const api = {
   deleteFriend: "friend",
   addFriend: "friend",
   reminders: "user/reminders",
+  notification: 'notification',
+  token: 'token',
+  purchaseIntent: 'payment/purchase',
+  confirmPayment: 'payment/confirm',
+  tokenSend: 'token/send',
 
-  forgot:"auth/forgotPassword",
-  resetpassword:"auth/resetPassword",
-  post:"post/create",
+  forgot: "auth/forgotPassword",
+  resetpassword: "auth/resetPassword",
+  post: "post/create",
 
-  getPosts:"post",
-  
-  toggleLike:"toggleLike",
-  personalProfile:"user/profile",
-  comment:"comment",
-  follow:"follow",
-  getFollowers:"getFollowers",
-  getFollowings:"getFollowings",
-  
+  getPosts: "post",
+
+  toggleLike: "toggleLike",
+  personalProfile: "user/profile",
+  comment: "comment",
+  follow: "follow",
+  getFollowers: "follow/getFollowers",
+  getFollowings: "follow/getFollowings",
+  checkFollowing: "follow/checkFollowing",
+
 
 };

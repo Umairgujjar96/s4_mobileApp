@@ -1,0 +1,34 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: scroll4-app-deployment
+  labels:
+    app: scroll4-stagiing
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: scroll4-staging
+  template:
+    metadata:
+      labels:
+        app: scroll4-staging
+    spec:
+      containers:
+      - name: scroll4
+        image: 014644890486.dkr.ecr.us-east-1.amazonaws.com/staging-ecr:712d2cf1d71640ed923fcd47417a011eff55b14d
+        ports:
+        - name: http
+          containerPort: 8080
+        imagePullPolicy: IfNotPresent
+
+
+      #   volumeMounts: 
+      #     - name: apache-vol
+      #       mountPath: /etc/apache2/sites-available
+      # nodeSelector:
+      #   kubernetes.io/os: linux
+      # volumes:
+      #   - name: apache-vol
+      #     configMap:
+      #       name: apache-config

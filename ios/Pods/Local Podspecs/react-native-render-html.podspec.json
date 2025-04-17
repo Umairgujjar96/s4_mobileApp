@@ -1,0 +1,21 @@
+{
+  "name": "react-native-render-html",
+  "version": "6.3.4",
+  "summary": "The hackable, full-featured Open Source HTML rendering solution for React Native.",
+  "license": "BSD-2-Clause",
+  "authors": "Meliorence <contact@meliorence.com> (github.com/meliorence)",
+  "homepage": "https://meliorence.github.io/react-native-render-html/",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://github.com/meliorence/react-native-render-html.git",
+    "tag": "v6.3.4"
+  },
+  "source_files": "ios/**/*.{h,m}",
+  "dependencies": {
+    "React-Core": [
+
+    ]
+  }
+}

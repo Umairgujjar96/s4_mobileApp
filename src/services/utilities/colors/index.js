@@ -24,6 +24,6 @@ export const colors = {
   listColor: "#E1E4E8",
   offButton: "#EEEEEE",
   red: "#FF0A0A",
-  lightGreen:"#0AF514",
+  lightGreen: "#0AF514",
 
 };

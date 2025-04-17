@@ -40,7 +40,7 @@ export const callApi = async (
   if (isConnected) {
     let token = store.getState().user.accessToken ?? false;
 
-    console.log("token,,,,,", token)
+    console.log("token,,,,,", BASE_URL + endPoint)
     let refreshToken = store.getState().user.refreshToken ?? false;
     let url = BASE_URL + endPoint;
     if (multipart) {
@@ -49,7 +49,7 @@ export const callApi = async (
       defaultHeaders["Content-Type"] = "application/json";
     }
     if (token) {
-      console.log("token saved is :" ,token);
+      console.log("token saved is :", token);
       defaultHeaders["Authorization"] = token;
     }
     let fetchObject = {

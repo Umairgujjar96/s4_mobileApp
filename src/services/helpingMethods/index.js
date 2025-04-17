@@ -117,10 +117,10 @@ export function timeAgo(timeString) {
 
 
 const s3Config = {
-  ACCESS_KEY: "AKIAZI2LE6FPBD6YSGGD",
-  SECRET_KEY: "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",
+  ACCESS_KEY: "AKIA5THB4BNGBFCJOTV4",
+  SECRET_KEY: "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",
   REGION: "eu-north-1",
-  BUCKET_NAME: "my-surprise-bucket",
+  BUCKET_NAME: "scroll4bucket",
 };
 
 function generateRandomString(length) {
@@ -145,14 +145,14 @@ export const uploadImageOnS3 = async (file, successPath) => {
     Bucket: s3Config.BUCKET_NAME,
     signatureVersion: 'v4',
   });
-  let contentType = 'image/jpeg';
-  let contentDeposition = 'inline;filename="' + filename + '"';
+  let contentType = file.type;
+  let contentDeposition = `inline; filename="${filename}"`;
   const base64 = await fs.readFile(file.path, 'base64');
   const arrayBuffer = decode(base64);
 
   s3bucket.createBucket(async () => {
     const params = {
-      Bucket: "react-host-s3",
+      Bucket: s3Config.BUCKET_NAME,
       Key: filename,
       Body: arrayBuffer,
       ContentDisposition: contentDeposition,

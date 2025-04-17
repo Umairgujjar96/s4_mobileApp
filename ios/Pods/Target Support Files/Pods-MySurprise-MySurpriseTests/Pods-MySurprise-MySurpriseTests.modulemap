@@ -1,0 +1,6 @@
+module Pods_MySurprise_MySurpriseTests {
+  umbrella header "Pods-MySurprise-MySurpriseTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

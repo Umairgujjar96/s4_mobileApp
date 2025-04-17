@@ -7,10 +7,10 @@ const SCREEN_HEIGHT = Dimensions.get("screen").height;
 export const storageKey = {};
 
 export const routes = {
-  messages:"messages",
+  messages: "messages",
   auth: "auth",
   tab: "tabNavigator",
-  changePassword:'changePassword',
+  changePassword: 'changePassword',
   drawer: "drawer",
   app: "app",
   setting: "setting",
@@ -41,13 +41,16 @@ export const routes = {
   feedback: "feedback",
   delete: "delete",
   deleteVerfication: "deleteVerfication",
-  forgotPassword:"forgotPassword",
-  followers:"followers",
+  forgotPassword: "forgotPassword",
+  followers: "followers",
   createpost: "createpost",
-  previewpost:"previewpost",
-  notification:"notification",
-  singlepost:'singlepost',
-  individualMessages:"individualMessages",
+  previewpost: "previewpost",
+  notification: "notification",
+  singlepost: 'singlepost',
+  individualMessages: "individualMessages",
+  followings: "followings",
+  purchaseTokens: "purchaseTokens",
+  withdrawTokens: "withdrawTokens",
 };
 
 export const loaderStyles = {

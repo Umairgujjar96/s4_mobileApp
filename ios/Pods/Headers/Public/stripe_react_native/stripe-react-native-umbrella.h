@@ -1,0 +1,1 @@
+../../../Target Support Files/stripe-react-native/stripe-react-native-umbrella.h

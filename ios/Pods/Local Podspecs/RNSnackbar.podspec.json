@@ -1,0 +1,22 @@
+{
+  "name": "RNSnackbar",
+  "version": "2.6.2",
+  "summary": "Material Design \"Snackbar\" component for Android and iOS.",
+  "description": "Material Design \"Snackbar\" component for Android and iOS.",
+  "homepage": "https://github.com/cooperka/react-native-snackbar",
+  "license": "MIT",
+  "authors": "Azendoo",
+  "source": {
+    "git": "https://github.com/cooperka/react-native-snackbar.git"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "ios/**/*.{h,m}",
+  "exclude_files": "example/**/*",
+  "dependencies": {
+    "React-Core": [
+
+    ]
+  }
+}

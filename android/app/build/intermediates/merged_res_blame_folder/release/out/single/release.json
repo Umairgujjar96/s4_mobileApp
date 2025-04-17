@@ -1,0 +1,330 @@
+[
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_bin.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_bin.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_greendot.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_greendot.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_close.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_close.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_tabicon.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_tabicon.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_successicon.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_successicon.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_arrow.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_arrow.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_smsicon.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_smsicon.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_profileimage.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_profileimage.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_add.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_add.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_sear.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_sear.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_filledheart.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_filledheart.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_clothicon.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_clothicon.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_onboard2.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_onboard2.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_notification.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_notification.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_savepost.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_savepost.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_warnicon.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_warnicon.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.mysurprise.app-main-98:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_messageicon.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_messageicon.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_tabicontwo.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_tabicontwo.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_whatsappicon.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_whatsappicon.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_termicon.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_termicon.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_profileicon3.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_profileicon3.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_pic2.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_pic2.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_tabiconfour.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_tabiconfour.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_buildprofileicon.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_buildprofileicon.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_info.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_info.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_group427320660.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_group427320660.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_editicon.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_editicon.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_handicon.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_handicon.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.mysurprise.app-main-98:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_mailicon.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_mailicon.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_otpicon.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_otpicon.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_staricon.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_staricon.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_eventiconfour.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_eventiconfour.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_onboardingtwo.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_onboardingtwo.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_pic1.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_pic1.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_signupicon.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_signupicon.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.mysurprise.app-main-98:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_usericon.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_usericon.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_textrepresent.jpg.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_textrepresent.jpg"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_onboard1.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_onboard1.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_logo.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_logo.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_background.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_background.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.mysurprise.app-main-98:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_onboardingone.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_onboardingone.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_icontoken.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_icontoken.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_sharepost.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_sharepost.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_privacyicon.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_privacyicon.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_forward.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_forward.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_like.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_like.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_logouticon.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_logouticon.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_share.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_share.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_comment.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_comment.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_profile.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_profile.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_eventicon.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_eventicon.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_backgroundrectangle.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_backgroundrectangle.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_pic4.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_pic4.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_bread.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_bread.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_eventiconthree.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_eventiconthree.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_uploadicon.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_uploadicon.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_contacticon.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_contacticon.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.mysurprise.app-main-98:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_chevrondown.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_chevrondown.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_onboardingthree.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_onboardingthree.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_eventicontwo.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_eventicontwo.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_backicon.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_backicon.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_pic3.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_pic3.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_onboard3.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_onboard3.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.mysurprise.app-main-98:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_imgplaceholder.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_imgplaceholder.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_profileicon2.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_profileicon2.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_playbutton.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_playbutton.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_dog.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_dog.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_settingicon.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_settingicon.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_tabiconthree.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_tabiconthree.png"
+    },
+    {
+        "merged": "com.mysurprise.app-merged_res-97:/drawable-mdpi_src_assets_icons_aboutusicon.png.flat",
+        "source": "com.mysurprise.app-res-92:/drawable-mdpi/src_assets_icons_aboutusicon.png"
+    }
+]

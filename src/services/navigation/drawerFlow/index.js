@@ -1,11 +1,13 @@
 import React from "react";
 import { createStackNavigator } from "@react-navigation/stack";
 
- import { routes } from "../../constants";
+import { routes } from "../../constants";
 import { TabNavigator } from "../tabFlow";
 import DashboarStack from "../appFlow/dashboardStack";
 import ProfileStack from "../appFlow/profileStack";
 import { AuthNavigation } from "../authFlow";
+import { FollowersList } from "../../../screens/appFlow";
+import { Messages } from "../../../screens/appFlow";
 
 
 const Drawer = createStackNavigator();
@@ -17,6 +19,9 @@ const DrawerNavigator = () => {
     >
       <Drawer.Screen name={routes.tab} component={TabNavigator} />
       {/* <Drawer.Screen name={routes.profilestack} component={ProfileStack} /> */}
+      <Drawer.Screen name={routes.followers} component={FollowersList} />
+      <Drawer.Screen name={routes.individualMessages} component={Messages} />
+
 
     </Drawer.Navigator>
   );

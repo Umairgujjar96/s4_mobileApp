@@ -1,0 +1,6 @@
+module StripeFinancialConnections {
+  umbrella header "StripeFinancialConnections-umbrella.h"
+
+  export *
+  module * { export * }
+}

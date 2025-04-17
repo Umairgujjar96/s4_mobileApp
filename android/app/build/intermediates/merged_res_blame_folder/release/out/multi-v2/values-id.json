@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.mysurprise.app-mergeReleaseResources-95:/values-id/values-id.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Umair\\.gradle\\caches\\transforms-4\\9d0beda22d12a7f56379e70b3702826a\\transformed\\jetified-play-services-wallet-19.3.0\\res\\values-id\\values.xml",
+                    "from": {
+                        "startLines": "4,5",
+                        "startColumns": "0,0",
+                        "startOffsets": "202,259",
+                        "endColumns": "56,73",
+                        "endOffsets": "258,332"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,116",
+                        "endColumns": "60,77",
+                        "endOffsets": "111,189"
+                    }
+                }
+            ]
+        }
+    ]
+}
